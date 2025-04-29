@@ -12,6 +12,12 @@ A Python-based DDoS (Distributed Denial of Service) testing tool that simulates 
 - Real-time attack statistics
 - CTRL+C graceful termination
 
+## 📸 Screenshots  
+
+### **SCREENSHOTS**  
+![WCRACK](DDOS.png)  
+
+
 ## ⚙️ Requirements
 - Python 3.6+
 - Colorama library
