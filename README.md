@@ -1,9 +1,12 @@
 # DDoS Attack Tool
 
+![Views](https://komarev.com/ghpvc/?username=ElliotV56&repo=DDoS-Tool&label=PROJECT+VIEWS&color=red&style=flat-square)
+
 **Disclaimer**: This tool is for educational and research purposes only. Unauthorized use against any network or system without explicit permission is illegal. The developer assumes no liability and is not responsible for any misuse or damage caused by this program.
 
 
 ![DDoS Tool Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyb2UwY3BqZ3FmYXR6dWg5dWZ1b2V6Z2JtY2R6eGZ1bWZ6eWZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/your-gif-id-here/demo.gif) 
+
 
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
