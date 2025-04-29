@@ -32,12 +32,18 @@ Tested On :
     Parrot OS
 
 
-## 🛠️ Features
-- Multi-threaded UDP flood attack
-- Cross-platform (Windows/Linux)
-- Color-coded console output
-- Real-time attack statistics
-- CTRL+C graceful termination
+## 🛠️ Core Features
+
+### ⚡ Attack Engine
+```diff
++ UDP Flood Technology:
+- 10-100 adjustable attack threads
+- 1490 byte optimized packet size
+- Socket reuse for maximum throughput
++ Real-time packet statistics:
+  • Packets/second counter
+  • Bandwidth estimation
+  • Duration timer
 
 ## 📸 Screenshots  
 
