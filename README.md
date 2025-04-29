@@ -48,6 +48,7 @@ Tested On :
 
 ### Prerequisites  
 - 𝙆𝘼𝙇𝙄 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+- 𝐖𝐈𝐍𝐃𝐎𝐖𝐒 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 - 𝐓𝐄𝐑𝐌𝐔𝐗 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
 -  𝐏𝐚𝐫𝐫𝐨𝐭 𝐎𝐒 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-FF6600?style=for-the-badge&logo=parrotos&logoColor=white)
 -  𝐔𝐛𝐮𝐧𝐭𝐮 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
