@@ -60,6 +60,6 @@ Tested On :
 
 ## 📥 Installation
 ```bash
-git clone https://github.com/ElliotV56/DDoS-Tool.git
-cd DDoS-Tool
-pip install -r requirements.txt
+git clone https://github.com/ElliotV56/DDOS-ATTACK.git
+cd  DDOS-ATTACK
+python3 DDos.py
