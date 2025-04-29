@@ -56,10 +56,10 @@ Tested On :
 
 ## ⚙️ Requirements
 - Python 3.6+
-- Colorama library
 
 ## 📥 Installation
 ```bash
-git clone https://github.com/ElliotV56/DDOS-ATTACK.git
-cd  DDOS-ATTACK
-python3 DDos.py
+-sudo apt install python3-pip (optional)
+-git clone https://github.com/ElliotV56/DDOS-ATTACK.git
+-cd  DDOS-ATTACK
+-python3 DDos.py
