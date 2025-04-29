@@ -34,7 +34,7 @@ Tested On :
 
 ## 🛠️ Features
 - Multi-threaded UDP flood attack
-- Cross-platform (Windows/Linux)
+- Cross-platform (Windows/Linux/Arch/Debian/Termux)
 - Color-coded console output
 - Real-time attack statistics
 - CTRL+C graceful termination
